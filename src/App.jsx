@@ -1,8 +1,7 @@
 import React from 'react'
 import './style/css/bootstrap.css'
 import './style/css/style.css'
-import './style/css/responsive.css'
-
+ 
 import Nav from './layouts/nav'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/home'
