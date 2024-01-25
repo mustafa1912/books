@@ -39,7 +39,17 @@ html {
 .layout_padding-bottom {
   padding-bottom: 90px;
 }
-
+.btn {
+  display: inline-block;
+  padding: 10px 45px;
+  background-color: #44b89d;
+  color: #ffffff !important;
+  border-radius: 45px;
+  border: 1px solid #44b89d;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-top: 15px;
+}
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -176,7 +186,7 @@ a:focus {
   text-align: center;
 }
 .custom_nav-container .navbar-nav .nav-item .nav-link.active {
-  color: #44b89d; 
+  color: #44b89d;
 }
 
 .custom_nav-container .navbar-toggler {
