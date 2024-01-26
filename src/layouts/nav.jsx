@@ -19,16 +19,16 @@ function Nav() {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav">
                             <li className="nav-item active">
-                                <NavLink className="nav-link pl-lg-0" to="technical-support"> كتب الدعم الفني </NavLink>
+                                <NavLink className="nav-link pl-lg-0" to="technical-support">  الدعم الفني </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="Office-administration"> كتب الإدارة المكتبية </NavLink>
+                                <NavLink className="nav-link" to="Office-administration">  الإدارة المكتبية </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="Electronics-management"> كتب الإدارة الكترونيات </NavLink>
+                                <NavLink className="nav-link" to="Electronics-management">  الإدارة الالكترونيات  </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="Mechanics-management"> كتب الإدارة الميكانيكا </NavLink>
+                                <NavLink className="nav-link" to="Mechanics-management">  الإدارة الميكانيكا </NavLink>
                             </li>
                         </ul>
                     </div>
