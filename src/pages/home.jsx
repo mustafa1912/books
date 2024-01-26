@@ -6,8 +6,8 @@ function Home() {
     const data = [
         { title: '  الدعم الفني   ', pdf: 'https://al-motamizon.com/ar', link: 'technical-support' },
         { title: '  الإدارة المكتبية   ', pdf: 'https://al-motamizon.com/ar', link: 'Office-administration' },
-        { title: '  الإدارة الالكترونيات    ', pdf: 'https://al-motamizon.com/ar', link: 'Electronics-management' },
-        { title: '  الإدارة الميكانيكا   ', pdf: 'https://al-motamizon.com/ar', link: 'Mechanics-management' },
+        { title: ' الإلكترونيات ', pdf: 'https://al-motamizon.com/ar', link: 'Electronics-management' },
+        { title: ' الميكانيكا ', pdf: 'https://al-motamizon.com/ar', link: 'Mechanics-management' },
     ]
 
     return (

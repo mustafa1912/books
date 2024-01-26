@@ -4,7 +4,7 @@ import Books from '../components/books';
 
 const categoryData = {
     '/Mechanics-management': {
-        name: ' الإدارة الميكانيكا ',
+        name: '  الميكانيكا ',
         items: [
             { title: '   ميكانيك سيارات', pdf: './pdf/كتاب ميكانيك سيارات.pdf' },
             { title: '   محركات الديزل', pdf: './pdf/كتاب محركات الديزل.pdf' },
@@ -13,9 +13,9 @@ const categoryData = {
         ],
     },
     '/Electronics-management': {
-        name: '  الإدارة الالكترونيات     ',
+        name: '   الإلكترونيات           ',
         items: [
-            { title: '   الإدارة الالكترونيات ', pdf: './pdf/كتاب فحص العناصر الالكترنية.pdf' },
+            { title: '    الإلكترونيات    ', pdf: './pdf/كتاب فحص العناصر الالكترنية.pdf' },
             { title: '   امن المعلومات', pdf: './pdf/امن المعلومات.pdf' },
             { title: '  اساسيات الكهرباء و الالكترونيات   ', pdf: './pdf/اساسيات الكهرباء والالكترونيات.pdf' },
             { title: '   صيانة الجوالات ', pdf: './pdf/صيانة_الجوالات.pdf' },
