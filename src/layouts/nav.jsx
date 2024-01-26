@@ -25,10 +25,10 @@ function Nav() {
                                 <NavLink className="nav-link" to="Office-administration">  الإدارة المكتبية </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="Electronics-management">  الإدارة الالكترونيات  </NavLink>
+                                <NavLink className="nav-link" to="Electronics-management">   الالكترونيات  </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="Mechanics-management">  الإدارة الميكانيكا </NavLink>
+                                <NavLink className="nav-link" to="Mechanics-management">   الميكانيكا </NavLink>
                             </li>
                         </ul>
                     </div>
