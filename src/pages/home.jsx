@@ -4,10 +4,10 @@ import Contact from '../components/contact'
 
 function Home() {
     const data = [
-        { title: ' كتب الدعم الفني   ', pdf: 'https://al-motamizon.com/ar', link: 'technical-support' },
-        { title: ' كتب الإدارة المكتبية   ', pdf: 'https://al-motamizon.com/ar', link: 'Office-administration' },
-        { title: ' كتب الإدارة الالكترونيات    ', pdf: 'https://al-motamizon.com/ar', link: 'Electronics-management' },
-        { title: ' كتب الإدارة الميكانيكا   ', pdf: 'https://al-motamizon.com/ar', link: 'Mechanics-management' },
+        { title: '  الدعم الفني   ', pdf: 'https://al-motamizon.com/ar', link: 'technical-support' },
+        { title: '  الإدارة المكتبية   ', pdf: 'https://al-motamizon.com/ar', link: 'Office-administration' },
+        { title: '  الإدارة الالكترونيات    ', pdf: 'https://al-motamizon.com/ar', link: 'Electronics-management' },
+        { title: '  الإدارة الميكانيكا   ', pdf: 'https://al-motamizon.com/ar', link: 'Mechanics-management' },
     ]
 
     return (

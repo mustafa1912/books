@@ -24,7 +24,7 @@ function Books({ data, name }) {
             <section className="blog_section layout_padding">
                 <div className="container">
                     <div className="heading_container heading_center">
-                        <h2>{name ? name : ' كتب التخصصات'}</h2>
+                        <h2>{name ? name : '  التخصصات'}</h2>
                     </div>
                     <div className="row">
                         {data.map((Element, index) => (

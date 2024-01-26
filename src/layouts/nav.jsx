@@ -8,7 +8,7 @@ function Nav() {
                 <nav className="navbar navbar-expand-lg custom_nav-container ">
                     <NavLink className="navbar-brand" to="">
                         <span>
-                            البحث عن كتب التخصصات
+                            البحث عن   التخصصات
                         </span>
                     </NavLink>
                     <button className="navbar-toggler" type="button" data-toggle="collapse"
